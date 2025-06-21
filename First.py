@@ -15,3 +15,5 @@ print("Today is a great day to code.")
 print("Learning Git is fun!")
 print("Python is powerful and easy to learn.")
 print("Push your changes to GitHub regularly.")
+
+print("Changing in local repo")
