@@ -17,3 +17,5 @@ print("Python is powerful and easy to learn.")
 print("Push your changes to GitHub regularly.")
 
 print("Changing in local repo")
+print("Changing in local repo")
+print("Changing in local repo")
